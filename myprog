@@ -1,7 +1,0 @@
-#!/bin/bash
-# my first sqript
-set -A array_name
-array_name[0] = "./hello_world"
-source array_name[0]
-echo "Hello world"
-
